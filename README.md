@@ -2,5 +2,5 @@
 # Gauri Gupta
 Branch: CSE  
 Year: 1st Year  
-I want to learn programming, GitHub usage andlogical thinking to improve my development skills.
+I want to learn programming, GitHub usage and logical thinking to improve my development skills.
 
